@@ -1,10 +1,19 @@
 {
   "recommendations": [
+    "ecmel.vscode-html-css",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "zignd.html-css-class-completion",
     "esbenp.prettier-vscode",
     "pkief.material-icon-theme",
     "aaron-bond.better-comments",
     "ritwickdey.liveserver",
     "dbaeumer.vscode-eslint",
-    "rendinjast.amoled-black"
+    "rendinjast.amoled-black",
+    "xabikos.javascriptsnippets",
+    "donjayamanne.jquerysnippets",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.js-debug-nightly"
   ]
 }
