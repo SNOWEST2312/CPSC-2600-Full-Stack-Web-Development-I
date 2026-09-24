@@ -1,1 +1,10 @@
-# CPSC-2600-Full-Stack-Web-Development-I
+LEARNING OUT COMES FOR TODAY
+- Server-side programming
+    - Write programs that run on a server instead of a browser
+        - What is a server? Remote computer that sends files and does other things. The browser we use on our computer or mobile device is a CLIENT that runs locally. To access websites, the client connects to a SERVER that sends the website to the client.
+            - To connect, we send HTTP request over the internet - the address of the server is an IP address, and we use a human-readable domain name and URL that gets converted to that IP address.
+            - Our client will make a request to the server, and the server will respond somehow (often sending the HTML and CSS files needed to view the web page.)
+            - We will write the program that runs on the server that responds to requests from clients.
+            - We will write server-side programs that use JavaScript and run in a Node.js.
+                - Node.js is an environment for running JS on a server
+                - We'll also use a framework called Express to simplify handling requests from clients and sending responses
