@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "aaron-bond.better-comments",
+    "ritwickdey.liveserver",
+    "dbaeumer.vscode-eslint",
+    "rendinjast.amoled-black"
+  ]
+}
