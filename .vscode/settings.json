@@ -147,5 +147,6 @@
     "*.js": "javascript"
   },
   "git.enableSmartCommit": true,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "workbench.editor.tabActionLocation": "right"
 }
